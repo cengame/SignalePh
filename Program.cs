@@ -7,8 +7,6 @@ Console.WriteLine("Insira o código para transmissão:");
 string binario = Convert.ToString(Console.ReadLine()[0], 2);
 Console.Clear();
 
-//<Guid("F5A74BF9-CBBF-4E55-9236-C37B872B437D")>
-
 while (true)
 {
     for (global::System.Int32 i = 0; i < 60; i++)

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZDwVv3YjCfc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\found\\source\\repos\\SignalePh\\SignalePh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\found\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.10\\microsoft.dotnet.ilcompiler.9.0.10.nupkg.sha512",
+    "C:\\Users\\found\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.10\\microsoft.net.illink.tasks.9.0.10.nupkg.sha512",
+    "C:\\Users\\found\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512",
+    "C:\\Users\\found\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.10\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

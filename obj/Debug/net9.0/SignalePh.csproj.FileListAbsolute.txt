@@ -1,0 +1,14 @@
+C:\Users\found\source\repos\SignalePh\bin\Debug\net9.0\SignalePh.exe
+C:\Users\found\source\repos\SignalePh\bin\Debug\net9.0\SignalePh.deps.json
+C:\Users\found\source\repos\SignalePh\bin\Debug\net9.0\SignalePh.runtimeconfig.json
+C:\Users\found\source\repos\SignalePh\bin\Debug\net9.0\SignalePh.dll
+C:\Users\found\source\repos\SignalePh\bin\Debug\net9.0\SignalePh.pdb
+C:\Users\found\source\repos\SignalePh\obj\Debug\net9.0\SignalePh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\found\source\repos\SignalePh\obj\Debug\net9.0\SignalePh.AssemblyInfoInputs.cache
+C:\Users\found\source\repos\SignalePh\obj\Debug\net9.0\SignalePh.AssemblyInfo.cs
+C:\Users\found\source\repos\SignalePh\obj\Debug\net9.0\SignalePh.csproj.CoreCompileInputs.cache
+C:\Users\found\source\repos\SignalePh\obj\Debug\net9.0\SignalePh.dll
+C:\Users\found\source\repos\SignalePh\obj\Debug\net9.0\refint\SignalePh.dll
+C:\Users\found\source\repos\SignalePh\obj\Debug\net9.0\SignalePh.pdb
+C:\Users\found\source\repos\SignalePh\obj\Debug\net9.0\SignalePh.genruntimeconfig.cache
+C:\Users\found\source\repos\SignalePh\obj\Debug\net9.0\ref\SignalePh.dll

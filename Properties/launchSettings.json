@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SignalePh": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
